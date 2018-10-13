@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace EPAM.Core.ReportHelper
+namespace EPAM.CoreWorkshop.ReportHelper
 {
 	public static class ReportNameHelper
 	{
